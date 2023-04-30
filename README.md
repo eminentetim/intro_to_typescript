@@ -7,7 +7,7 @@ TypeScript is a syntactic superset of JavaScript which adds static typing.
 
 Example
 
-const user (firstName:string, lastName:string role:string, age:number) = {
+const user (firstName:string, lastName:string, role:string, age:number) = {
   firstName: "Angela",
   lastName: "Davis",
   role: "Professor",
